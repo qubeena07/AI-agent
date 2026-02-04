@@ -7,3 +7,4 @@ python-dotenv
 pydantic
 langchain-google-genai
 google-generativeai
+duckduckgo-search
